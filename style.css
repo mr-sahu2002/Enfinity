@@ -43,11 +43,14 @@
   opacity: 0;
   pointer-events: none;
 }
-
+img:hover{
+  cursor:grab;
+}
 .card img:nth-child(2),
 .card span:hover + img {
   opacity: 1;
 }
+
 
 /* for button */
 .btn {
