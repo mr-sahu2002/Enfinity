@@ -28,8 +28,8 @@
 .card span {
   position: absolute;
   top: 0;
-  left: calc(100% / 9 * var(--i));
-  width: calc(100% / 9);
+  left: calc(100% / 8 * var(--i));
+  width: calc(100% / 8);
   height: 100%;
 }
 
